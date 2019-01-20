@@ -22,3 +22,7 @@ exports.getDate = function(format) {
 
 	return new Date();
 };
+
+exports.getAppName = function() {
+	
+}
